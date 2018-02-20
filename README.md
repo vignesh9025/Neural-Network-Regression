@@ -1,45 +1,37 @@
 # Neural Network Regression
 
-> **[?]** 
-> Provide short description for your project here.
-
-
+Neural-network regression to find best network configuration.
 
 ---
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions - just the ones relevant to your project.
+This project demonstrates the implementation of neural-network regression using three datasets - a custom 'toy' dataset, automobile dataset and Anuran calls dataset.
 
-
+This project was implemented as a part of the CS445: Introduction to Machine Learning course at Colorado State University, during the Spring of 2018.  
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+* Python
+* Jupyter Notebook
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+* Anaconda distribution: https://www.anaconda.com/products/individual
 
 ### Installation
 
-> **[?]**
-> Proceed to describe how to install and get started with the project.
+To install, clone the GitHub repo to a local directory:
+
+`git clone https://github.com/vignesh-pagadala/neural-network-regression.git`
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+Run with Jupyer Notebook:
+
+`jupyter-notebook Neural-Network-Regression.ipynb`
 
 ## Roadmap
 
@@ -50,9 +42,6 @@ See the [open issues](https://github.com/vignesh-pagadala/neural-network-regress
 - [Newest Bugs](https://github.com/vignesh-pagadala/neural-network-regression/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
@@ -95,9 +84,3 @@ _For more info, please refer to the [security](docs/SECURITY.md)._
 This project is licensed under the **GNU General Public License v3**.
 
 See [LICENSE](LICENSE) for more information.
-
-## Acknowledgements
-
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
